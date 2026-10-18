@@ -2,7 +2,7 @@
 
 > **流程编排**：深度研究、定时任务/cron、条件唤醒、计划批注、审查闭环、模型路由、审批。返回 [目录](../README.md#分类目录)
 
-- [dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) — 自适应深度研究编排器（基于官方 workflow 引擎） ⭐28 · `dsh plugin add @dsh-external/dsh-deep-research`
+- [dsh-deep-research](https://github.com/omdsh-dev/dsh-deep-research) — 自适应深度研究编排器（基于官方 workflow 引擎） ⭐29 · `dsh plugin add @dsh-external/dsh-deep-research`
 - [dsh-deepresearch](https://github.com/havingautism/dsh-deepresearch) — 证据优先的独立研究工作流（持久状态 + 独立 Web 视图） ⭐13 · `dsh plugin add @deepseek-ai/dsh-deepresearch`
 - [dsh-loop](https://github.com/vlln/dsh-loop) — 定时循环：`/loop` 命令 + loop 工具 + 活动状态条 ⭐7 · `dsh plugin add @dsh-external/dsh-loop`
 - [dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) — 条件驱动唤醒：file/command/http/process/webhook 持久监视触发 agent ⭐18 · `dsh plugin add @dsh-external/dsh-sentinel`
@@ -30,7 +30,7 @@
 - [dsh-flow](https://github.com/weibaohui/dsh-flow) — 执行流程图：把会话执行过程画成纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加、自动跟随滚动 · `dsh plugin add @weibaohui/dsh-flow`
 - [dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) — 审批链上的第二模型自动审查：只读审查子代理给出带理由的 allow/deny 裁决，默认失败即拒绝、全程可审计 ⭐234 · `dsh plugin add dsh-auto-review`
 
-- [dsh-continue](https://github.com/weibaohui/dsh-continue) — 自动续跑：agent 会话中断后自动续上，按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由到退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑 ⭐7 · `dsh plugin add @weibaohui/dsh-continue`
+- [dsh-continue](https://github.com/weibaohui/dsh-continue) — 自动续跑：agent 会话中断后自动续上，按失败类型（限流/额度/鉴权/上下文超限/崩溃孤儿）路由到退避重试、换模型、压缩上下文后继续或止损通知，规则可视化编辑 ⭐8 · `dsh plugin add @weibaohui/dsh-continue`
 - [dsh-tasks](https://github.com/weibaohui/dsh-tasks) — 定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名 ⭐9 · `dsh plugin add @weibaohui/dsh-tasks`
 
 <!-- nav:start -->
