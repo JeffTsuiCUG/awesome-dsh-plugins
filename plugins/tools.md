@@ -13,13 +13,13 @@
 - [dsh-tool-schema](https://github.com/omdsh-dev/dsh-tool-schema) — JSON Schema 验证：validate/paths/explain/normalize ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-schema`
 - [dsh-tool-stat](https://github.com/omdsh-dev/dsh-tool-stat) — 描述统计/百分位数/频数分布/相关性 ⭐5 · `dsh plugin add @deepseek-ai/dsh-tool-stat`
 - [dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) — 严格 ISO 8601 解析、IANA 时区、UTC 日历运算 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-time`
-- [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐4 · `dsh plugin add dsh-tool-git`
+- [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐5 · `dsh plugin add dsh-tool-git`
 - [dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化 test_run：自动探测 vitest/jest/pytest/node:test 并解析失败摘要 ⭐2 · `dsh plugin add dsh-test-runner`
 - [dsh-security-scan](https://github.com/ben7am1n/dsh-security-scan) — 密钥/危险模式扫描（API key/token/私钥脱敏，零依赖） · `dsh plugin add dsh-security-scan`
 - [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现 + 渐进式 schema 披露 ⭐1 · `dsh plugin add @deepseek-ai/dsh-tool-search`
 - [dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) — 用 Monaco 编辑器创建/管理沙箱化自定义 JS 工具 ⭐23 · `dsh plugin add dsh-custom-tool`
 - [dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding) — 自动识别并解码 Bash 输出编码（UTF-16LE/UTF-8/GBK），修中文乱码 ⭐8
-- [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — Codex 风格 `@file` 文件引用，输入框里直接搜索并引用工作区文件 ⭐526 · `dsh plugin add dsh-at-file`
+- [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — Codex 风格 `@file` 文件引用，输入框里直接搜索并引用工作区文件 ⭐527 · `dsh plugin add dsh-at-file`
 - [dsh-wikilink](https://github.com/zhaoscsc/dsh-wikilink) — Obsidian 风格 `[[wikilink]]` 提及：模糊搜索笔记标题并附加内容 ⭐2 · `dsh plugin add dsh-wikilink`
 - [dsh-safe-delete](https://github.com/Qintsg/dsh-safe-delete) — 安全删除：移入回收站/暂存区而非永久删除，支持恢复 ⭐1
 - [dsh-bisect-debug](https://github.com/PangYiMing/dsh-bisect-debug) — 二分法定位 bug 根因（代码/边界/commit） · `dsh plugin add dsh-bisect-debug`
@@ -37,7 +37,7 @@
 - [dsh-qingagent](https://github.com/void2anything/dsh-qingagent) — 把开源 AI 写作客户端青简（QingAgent）接进 DSH：对话里起草改稿，右侧宣纸面板排版渲染（mermaid/drawio/表格/KaTeX），每处修改先摆在纸上供审阅、提交才落稿，10 个工具；需本机运行青简桌面客户端 ⭐2 · `dsh plugin add dsh-qingagent`
 - [dsh-webdav-server](https://github.com/weibaohui/dsh-webdav-server) — WebDAV 服务器：把一个共享目录变成 Windows/macOS/Linux 都能挂载成本地磁盘的 WebDAV 服务，令牌认证、可选只读、目录/端口/令牌全可配，设置页自带三平台挂载指南 ⭐1 · `dsh plugin add @weibaohui/dsh-webdav-server`
 - [dsh-file-share](https://github.com/weibaohui/dsh-file-share) — 会话工作区文件管理：在对话区加「文件」tab，浏览当前会话工作区的目录树并就地管理（上传/下载/新建文件夹/改名/删除/搜索），文件可 @ 进对话框给 agent 处理 ⭐1 · `dsh plugin add @weibaohui/dsh-file-share`
-- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入） ⭐2 · `dsh plugin add @weibaohui/dsh-dashboard`
+- [dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) — 使用量仪表盘：离线扫描会话日志，统计每日/每周/每月 token、估算费用、模型/工具/技能/命令榜、输出速度、工作时段与质量指标；gridstack+ECharts 卡片可拖拽编排，支持自定义公式与 AI 编排（提示词往返导入） ⭐3 · `dsh plugin add @weibaohui/dsh-dashboard`
 
 <!-- nav:start -->
 ---
