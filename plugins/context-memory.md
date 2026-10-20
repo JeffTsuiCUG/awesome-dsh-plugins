@@ -22,7 +22,7 @@
 - [context-vista](https://github.com/GooodWei/context-vista) — `/context` 命令 + 环形图实时展示上下文 token 用量与费用 ⭐11 · `dsh plugin add context-vista`
 - [distill](https://github.com/LoserFox/distill) — 自动对话蒸馏：后台 subagent 反省 + 技能 create/update ⭐28 · `dsh plugin add @loserfox/distill`
 - [dsh-auto-compact](https://github.com/wangxiang0605qvq/dsh-auto-compact) — compact_now 工具，回合结束自动压缩上下文
-- [dsh-context](https://github.com/bowenliang123/dsh-context) — 上下文洞察面板：展示模型上下文窗口的构成与演化 ⭐2409 · `dsh plugin add dsh-context`
+- [dsh-context](https://github.com/bowenliang123/dsh-context) — 上下文洞察面板：展示模型上下文窗口的构成与演化 ⭐2459 · `dsh plugin add dsh-context`
 
 ## 会话控制 / 回退
 
@@ -36,7 +36,7 @@
 - [dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) — 迁移 Claude Code 会话/记忆/技能/CLAUDE.md 到 DSH ⭐29 · `dsh plugin add dsh-claude-move`
 
 - [taskfold](https://github.com/yindf/taskfold) — 把已完成的 agent 工作折叠成一条带标题的摘要，长会话保持可读、请求更省；每次折叠的原始内容可随时原样读回 ⭐10 · `dsh plugin add dsh-taskfold`
-- [dsh-rewind](https://github.com/SiriLee/dsh-rewind) — 同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚 ⭐161 · `dsh plugin add dsh-rewind-plugin`
+- [dsh-rewind](https://github.com/SiriLee/dsh-rewind) — 同窗口原地回退（Claude Code /rewind 语义）：每条用户消息旁 ↶ 按钮把模型上下文截断回任意一条消息，可选 Claude Code 风格文件回滚 ⭐163 · `dsh plugin add dsh-rewind-plugin`
 - [dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) — Codex 风格的 DSH 会话持久记忆：一会话一草稿、分层披露、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用 ⭐2 · `dsh plugin add dsh-memory_rollout`
 - [dsh-squeeze-command](https://github.com/hardes11/dsh-squeeze-command) — 手动、面向预算的上下文压缩：对话模型圈定要总结的范围，廉价 flash 级路由生成检查点摘要 ⭐1 · `dsh plugin add dsh-squeeze-command`
 - [dsh-kb](https://github.com/weibaohui/dsh-kb) — 团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint） ⭐6 · `dsh plugin add @weibaohui/dsh-kb`
